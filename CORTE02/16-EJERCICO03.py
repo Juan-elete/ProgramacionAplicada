@@ -18,6 +18,16 @@ se les darán multiples funciones, así como la documentación correspondiente
 #   tarda un mes más en ser también productiva, ¿cuántos pares de conejos podrá
 #   poner a la venta el granjero al cabo de un año?
 
+def fib (num):
+    a=1
+    b=0
+    for i in range (0,num):
+        b+=a
+        a=b-a
+    print(f"el granjero puede vender {a} pares de conejos en un año ")
+if __name__ == '__main__':
+    fib(13)
+
 ## Ejercicio objetos.
 # TODO: 1. Cree un archivo, Taller donde llevará acabo el codigo principal
 #       crear una lista de vehiculos que se encuentran en el taller en ese momento que tienen asociados: fecha de entrega, costo, modelo, año y dueño
