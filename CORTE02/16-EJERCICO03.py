@@ -35,3 +35,6 @@ se les darán multiples funciones, así como la documentación correspondiente
 # TODO: 3 Todas las funciones que implemente deben estar en un script distinto al principal y donde se definen sus clases
 #       NOTA - (la UNICA exepción son las funciones que definen dentro de sus clases.)
 
+
+iuguyviyv
+
